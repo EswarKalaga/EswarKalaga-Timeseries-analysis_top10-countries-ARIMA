@@ -11,6 +11,7 @@ Figure 2: Cumulative confirmed cases of top-10 countries that are hihgly affecte
 
 Figure 3: ACF plot of residuals of ARIMA model of USA. 
 ![USA_forecast_ARIMA](https://user-images.githubusercontent.com/49823170/132141073-19781289-6085-40e0-83e1-0849b02d3ca6.png)
+
 Figure 4: 60-day forecast of Cumulative confirmed cases of USA.
 
 
